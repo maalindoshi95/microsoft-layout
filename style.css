@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+span{
+    display: inline-block;
+}
+.dinosaur-pic{
+width: 50%;
+height: auto;
+}
